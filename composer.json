@@ -1,5 +1,5 @@
 {
-    "name": "dragonniers/database-anonymizer",
+    "name": "rq-ratings/database-anonymizer",
     "type": "library",
     "description": "Database anonymizer.",
     "keywords": [
